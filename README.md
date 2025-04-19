@@ -67,7 +67,7 @@ You can also connect with me on <a href="https://www.linkedin.com/in/ahyrnsrlh">
     </td>
           <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Csharp
+      <br>C
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
