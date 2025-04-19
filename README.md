@@ -25,8 +25,8 @@
 </div>
 <p></p>
 <p align="justify">
-welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering student, I learn new things about programming and teach these things to others, I have been programming for almost more than 10 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/barnamenevisiinsta">Barnamenevisinsta</a> that shares everything I learn about programming.
-
+Welcome to my GitHub Page. I am Akhyar Nasrullah Adilian, currently a Computer Science student. I enjoy learning new things about programming and sharing that knowledge with others. I have been programming for more than 3 years and have worked with various languages and technologies.
+You can also connect with me on <a href="https://www.linkedin.com/in/ahyrnsrlh">LinkedIn</a>, where I share my experiences, projects, and insights about programming and technology.
 </p>
 
 ## My favorite tools and technologies ⚙️
