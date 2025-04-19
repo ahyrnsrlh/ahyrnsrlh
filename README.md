@@ -29,7 +29,7 @@ Welcome to my GitHub Page. I am Akhyar Nasrullah Adilian, currently a Computer S
 You can also connect with me on <a href="https://www.linkedin.com/in/ahyrnsrlh">LinkedIn</a>, where I share my experiences, projects, and insights about programming and technology.
 </p>
 
-## My favorite tools and technologies ⚙️
+## ⚙️ My favorite tools and technologies
 
 > Tools and technologies that I have worked with and am interested in
 
