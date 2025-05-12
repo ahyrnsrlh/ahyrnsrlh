@@ -77,16 +77,16 @@ You can also connect with me on <a href="https://www.linkedin.com/in/ahyrnsrlh">
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Git" />
+      <br>Nextjs
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="GitLab" />
       <br>Express
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="HTML" />
+      <br>Nodejs
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
@@ -109,14 +109,14 @@ You can also connect with me on <a href="https://www.linkedin.com/in/ahyrnsrlh">
       <br>PostgreSQL
     </td>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="ASP.NET Core" />
-      <br>Nextjs
+        <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="ASP.NET Core" />
+      <br>Kotlin
     </td>
   </tr>
    <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Redis" />
-      <br>Nodejs
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="Redis" />
+      <br>Html
     </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
