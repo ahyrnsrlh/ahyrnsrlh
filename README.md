@@ -143,8 +143,8 @@ You can also connect with me on <a href="https://www.linkedin.com/in/ahyrnsrlh">
       <br>Flutter
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="dart" />
-      <br>Vite
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="dart" />
+      <br>Docker
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" alt="dart" />
