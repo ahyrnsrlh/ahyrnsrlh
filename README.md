@@ -106,10 +106,11 @@ You can also connect with me on <a href="https://www.linkedin.com/in/ahyrnsrlh">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
       <br>PostgreSQL
     </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="ASP.NET Core" />
-      <br>Kotlin
-    </td>
+           <td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" />
+  <br>Vue.js
+</td>
+
   </tr>
    <tr>
     <td align="center" width="96">
